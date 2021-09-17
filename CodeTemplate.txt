@@ -2,7 +2,7 @@ Overwatch
 Michele Olavarria
 
 
-if (Player is being shot at) {
+if (player is being shot at) {
     dodge bullets
 } else {
     shoot back
@@ -14,7 +14,7 @@ if (teammate is low on health) {
     ask healer to heal teammate
 }
 
-if (Objective is open) {
+if (objective is open) {
     attack objective
 } else {
     defend objective
